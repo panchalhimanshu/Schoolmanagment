@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // Define the MongoDB connection URL
 // const mongoURL = "mongodb+srv://workdheerajmathur:admin@cluster0.rhjmktm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-const mongoURL ="mongodb+srv://data:data@data.mnq5c5u.mongodb.net/?retryWrites=true&w=majority&appName=data"
+const mongoURL ="mongodb+srv://hhh:hhh@hhh.ceatx.mongodb.net/?retryWrites=true&w=majority&appName=hhh"
 // Set up MongoDB connection
 mongoose.connect(mongoURL);
 
